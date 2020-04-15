@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zodiac</string>
+    <string name="text_view_title">Find Your Zodiac Sign</string>
+    <string name="edit_text_month">Enter a Month (1-12)</string>
+    <string name="edit_text_day">Enter a Day (1-31)</string>
+    <string name="edit_text_year">Enter a Year (1890-20200</string>
+    <string name="button_validate">Validate Birthday</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_zociac">Find My Zodiac!</string>
+
+</resources>
